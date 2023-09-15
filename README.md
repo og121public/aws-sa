@@ -1,6 +1,6 @@
 # AWS Solutions Architecture
 
-#### 1: Design Solutions for Organizational Comple
+#### 1: Design Solutions for Organizational Complexity
 #### 2: Design for New Solutions
 #### 3: Continuous Improvement for Existing Solutions
 #### 4: Accelerate Workload Migration and Modernization
